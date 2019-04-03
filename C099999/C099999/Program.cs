@@ -10,6 +10,7 @@ namespace C099999
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dddd");
         }
     }
 }
